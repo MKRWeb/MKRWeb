@@ -16,8 +16,8 @@ Building offline-first AI-powered Web & Android applications and automated CI/CD
 ### 🧑‍💻 About Me
 
 * **Role:** Artificial Intelligence (Web & Android) App Developer
-* **Focus Areas:** AI-integrated Web & PWA Apps, Native Android Packaging (Capacitor 8 / SDK 36), Local-First Cryptography (`SHA-256`), and GitHub Actions Automation[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span)
-* **Location:** Bangladesh (`UTC +06:00`)[span_5](start_span)[span_5](end_span)
+* **Focus Areas:** AI-integrated Web & PWA Apps, Native Android Packaging (Capacitor 8 / SDK 36), Local-First Cryptography (`SHA-256`), and GitHub Actions Automation
+* **Location:** Bangladesh (`UTC +06:00`)
 
 ---
 
@@ -40,9 +40,9 @@ Building offline-first AI-powered Web & Android applications and automated CI/CD
 
 | Project | Description | Platform |
 | :--- | :--- | :--- |
-| **[sunnah-24](https://github.com/MKRWeb/sunnah-24)** | Offline-first 24-hour Prophetic lifestyle planner, habit tracker, digital Tasbih, and Masnoon Adhkar with SHA-256 triple-layer local vault ([Live App](https://mkrweb.github.io/sunnah-24/) • [APK/AAB Releases](https://github.com/MKRWeb/sunnah-24/releases/latest))[span_6](start_span)[span_6](end_span) | Web / PWA & Android[span_7](start_span)[span_7](end_span)[span_8](start_span)[span_8](end_span) |
-| **[Agent-Mon](https://github.com/MKRWeb/Agent-Mon)** | Intelligent agent & monitoring application[span_9](start_span)[span_9](end_span) | Web / JS[span_10](start_span)[span_10](end_span) |
-| **[MKR-Crypto-Pulse](https://github.com/MKRWeb/MKR-Crypto-Pulse)** | Real-time market pulse & tracking tool[span_11](start_span)[span_11](end_span) | Web / JS[span_12](start_span)[span_12](end_span) |
-| **[mkr-global](https://github.com/MKRWeb/mkr-global)** | Global web platform & utilities[span_13](start_span)[span_13](end_span) | Web / JS[span_14](start_span)[span_14](end_span) |
-| **[MKR-Ledger-APK](https://github.com/MKRWeb/MKR-Ledger-APK)** | Mobile ledger application packaged for Android[span_15](start_span)[span_15](end_span) | Android / JS[span_16](start_span)[span_16](end_span) |
-| **[10k-squad-aviary](https://github.com/MKRWeb/10k-squad-aviary)** | Interactive web application project[span_17](start_span)[span_17](end_span) | Web / JS[span_18](start_span)[span_18](end_span) |
+| **[sunnah-24](https://github.com/MKRWeb/sunnah-24)** | Offline-first 24-hour Prophetic lifestyle planner, habit tracker, digital Tasbih, and Masnoon Adhkar with SHA-256 triple-layer local vault ([Live App](https://mkrweb.github.io/sunnah-24/) • [APK/AAB Releases](https://github.com/MKRWeb/sunnah-24/releases/latest)) | Web / PWA & Android |
+| **[Agent-Mon](https://github.com/MKRWeb/Agent-Mon)** | Intelligent agent & monitoring application | Web / JS |
+| **[MKR-Crypto-Pulse](https://github.com/MKRWeb/MKR-Crypto-Pulse)** | Real-time market pulse & tracking tool | Web / JS |
+| **[mkr-global](https://github.com/MKRWeb/mkr-global)** | Global web platform & utilities | Web / JS |
+| **[MKR-Ledger-APK](https://github.com/MKRWeb/MKR-Ledger-APK)** | Mobile ledger application packaged for Android | Android / JS |
+| **[10k-squad-aviary](https://github.com/MKRWeb/10k-squad-aviary)** | Interactive web application project | Web / JS |
