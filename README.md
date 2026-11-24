@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm MKR Web (`MKRWeb`) 👋
+# Hi there, I'm MKR (`MKRWeb`) 👋
 ### Artificial Intelligence (Web & Android) App Developer
 
 Building offline-first AI-powered Web & Android applications and automated CI/CD pipelines from **Bangladesh** (`UTC +06:00`).
